@@ -51,4 +51,5 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <!--- https://github.com/devicons/devicon/tree/master/icons --->
 <!--- https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file --->
+<!--- Add: C#, C, Kotlin --->
 
