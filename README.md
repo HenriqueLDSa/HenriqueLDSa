@@ -29,6 +29,7 @@ I'm a 21-year-old aspiring software engineer and senior at the University of Cen
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" />
 
 <br />
+<br />
 
 #
 
