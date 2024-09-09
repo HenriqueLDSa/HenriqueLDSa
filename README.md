@@ -4,11 +4,10 @@
 
 I'm a 21-year-old aspiring software engineer and senior at the University of Central Florida. I'm totally passionate about coding and always on the lookout for new challenges to tackle. When I'm not buried in code, I'm probably playing video games or jamming on my guitar. I aim to create cool software that makes a difference and share my journey with others in the tech community.
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
 <p align="left">
    <a href="https://www.linkedin.com/in/henrique-lds/">
-      <i class="fa fa-linkedin-square"></i></a> 
+      <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
+   </a> 
 </p> 
 
 ---
