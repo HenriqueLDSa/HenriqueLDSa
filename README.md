@@ -6,13 +6,9 @@ I'm a 21-year-old aspiring software engineer and senior at the University of Cen
 
 <p align="left">
    <a href="https://www.linkedin.com/in/henrique-lds/">
-      <div style="display: flex; align-items: center;">
-         <div style="margin-right: 10px;">Your Text Here</div>
-         <img align="left" alt="LinkedIn" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
-      </div>      
-      <br><br>
-   </a> 
-</p> 
+      <img alt="LinkedIn" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
+   </a>
+</p>
 
 ---
 
@@ -30,8 +26,8 @@ I'm a 21-year-old aspiring software engineer and senior at the University of Cen
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/256px-Android_Studio_icon_%282023%29.svg.png?20230919062400" />
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" />
+<img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" />
 
 <br />
 <br />
