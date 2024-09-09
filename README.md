@@ -6,8 +6,11 @@ I'm a 21-year-old aspiring software engineer and senior at the University of Cen
 
 <p align="left">
    <a href="https://www.linkedin.com/in/henrique-lds/">
-      <div style="margin-right: 10px;">Your Text Here</div>
-      <img align="left" alt="LinkedIn" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>      <br><br>
+      <div style="display: flex; align-items: center;">
+         <div style="margin-right: 10px;">Your Text Here</div>
+         <img align="left" alt="LinkedIn" width="30px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/>
+      </div>      
+      <br><br>
    </a> 
 </p> 
 
