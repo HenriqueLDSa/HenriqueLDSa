@@ -2,7 +2,7 @@
 
 **`Aspiring Software Engineer`**
 
-I'm a 21-year-old aspiring software engineer and senior at the University of Central Florida. I'm totally passionate about coding and always on the lookout for new challenges to tackle. When I'm not buried in code, I'm probably playing video games or jamming on my guitar. I aim to create cool software that makes a difference and share my journey with others in the tech community.
+I'm a 22-year-old aspiring software engineer and senior at the University of Central Florida. I'm totally passionate about coding and always on the lookout for new challenges to tackle. When I'm not buried in code, I'm probably playing video games or jamming on my guitar. I aim to create cool software that makes a difference and share my journey with others in the tech community.
 
 <p align="left">
    <a href="https://www.linkedin.com/in/henrique-lds/">
