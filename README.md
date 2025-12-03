@@ -37,12 +37,12 @@ I'm a 22-year-old aspiring software engineer and senior at the University of Cen
 ### 📊 GitHub Stats
 
 <div>
-      <div>
+    <!-- <div>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueLDSa&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Henrique's top languages" style="display: block; margin-bottom: 10px;"/>
     </div>
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=HenriqueLDSa&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" alt="Henrique's GitHub stats" style="display: block; margin-bottom: 10px;"/>
-    </div>
+    </div> -->
     <div>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueLDSa&theme=vision-friendly-dark&hide_border=false" alt="Henrique's GitHub streak" style="display: block; margin-bottom: 10px;"/>
     </div>
